@@ -1,16 +1,16 @@
-
+/* Time display */
 class TimeblockObj {
-    constructor(hour, todo) {
-      this.hour = hour;
-      this.todo = todo;
-    }
+  constructor(hour, todo) {
+    this.hour = hour;
+    this.todo = todo;
   }
+}
 
-  window.onload = function() {
-    const currentTimeblocks = getCurrentTimeblocks();
-    const currentTime = moment();
+window.onload = function() {
+  const currentTimeblocks = getCurrentTimeblocks();
+  const currentTime = moment();
 
-    displayCurrentDate(currentTime);
+  displayCurrentDate(currentTime);
   displayTimeblockRows(currentTime);
 
   document.querySelector('.container')
@@ -23,5 +23,10 @@ class TimeblockObj {
 function getCurrentTimeblocks() {
   const currentTimeblocks = localStorage.getItem('timeblockObjects');
   return currentTimeblocks ? JSON.parse(currentTimeblocks) : [];
+}
+
+function displayCurrentDate(currentTime) {
+  document.getElementById('currentDay')
+    .textContent = currentTime.format('dddd, MMMM Do');
 }
 
