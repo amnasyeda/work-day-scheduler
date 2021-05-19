@@ -20,3 +20,8 @@ class TimeblockObj {
   setTimeblockText(currentTimeblocks);
 };
 
+function getCurrentTimeblocks() {
+  const currentTimeblocks = localStorage.getItem('timeblockObjects');
+  return currentTimeblocks ? JSON.parse(currentTimeblocks) : [];
+}
+
