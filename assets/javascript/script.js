@@ -112,7 +112,7 @@ function isSaveButton(event) {
 }
 
 function getTimeblockHour(event) {
-  return event.target.matches('.fa-save') ? event.target.parentElement.dataset.hour : event.target.dataset.hour;
+  return event.target.matches('.fa-save') ? event.target.parentElement.dataset.hour : event.target.dataset;
 }
 
 function getTextAreaValue(timeblockHour) {
