@@ -33,7 +33,8 @@ function displayCurrentDate(currentTime) {
 /* Function for all timeblocks */
 function displayTimeblockRows(currentTime) {
   const currentHour = currentTime.hour();
-  //working hours are 9-5 or 9-17
+
+  // Working hours are 9-5 or 9-17
   for (let i = 9; i <= 17; i ++) {
     const timeblock = createTimeblockRow(i);
     const hourCol = createCol(createHourDiv(i), 1);
