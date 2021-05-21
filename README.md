@@ -3,7 +3,7 @@
 
 Description:
 
-A simple calender application which allows users to save important tasks for every hour of the working day. It allows those with a busy schedule to plan and add important tasks for each our in order to be able to manage their day. 
+A simple calendar application which allows users to save important tasks for every hour of the working day. It allows those with a busy schedule to plan and add important tasks for each hour in order to be able to manage their day. 
 
 Purpose: To create a daily planner application which allows indivisuals to open the planner, type what they chose, and save such events. The date is to be displayed at the top of the planner and blocks of time for a standard work day are colour coded depending on whether the task has passed, is to currently be done, or is to be done in the coming hours. Each saved event is to be saved in local storage and are saved even if the page is refreshed. 
 
