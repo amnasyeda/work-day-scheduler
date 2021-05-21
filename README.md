@@ -8,9 +8,9 @@ A simple calendar application which allows users to save important tasks for eve
 Purpose: To create a daily planner application which allows indivisuals to open the planner, type what they chose, and save such events. The date is to be displayed at the top of the planner and blocks of time for a standard work day are colour coded depending on whether the task has passed, is to currently be done, or is to be done in the coming hours. Each saved event is to be saved in local storage and are saved even if the page is refreshed. 
 
 Deployed Git Hub URL: 
-<a href="amnasyeda.github.io/work-day-scheduler/" target="_blank">Click here</a>
+<a href="https://amnasyeda.github.io/work-day-scheduler/" target="_blank">Click here</a>
 
-If link does not work, please click here: amnasyeda.github.io/work-day-scheduler/
+If link does not work, please click here: https://amnasyeda.github.io/work-day-scheduler/
 
 
 
