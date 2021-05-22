@@ -40,8 +40,10 @@ Screenshot of Events being Saved to Local Storage:
 
 
 References:
-- [w3schools](https://www.w3schools.com/html/html_scripts.asp)
-- [madcap](https://kb.madcapsoftware.com/Content/Misc/GEN1011Z_-_Loading_local_files_in_Google_Chrome.htm)
-- [educative](https://www.educative.io/edpresso/how-to-create-a-countdown-timer-using-javascript)
-- [CodeExplained](https://www.codeexplained.org/2018/10/create-multiple-choice-quiz-using-javascript.html)
+- [w3schools](https://www.w3schools.com/jsref/dom_obj_date.asp)
+- [jqueryscript.net](https://www.jqueryscript.net/form/Save-Restore-Form-Values-jQuery-Savy.html)
+- [Font Awesome](https://fontawesome.com/)
+- [jQuery](https://jquery.com/)
+- [Bootstrap](https://getbootstrap.com/)
+
  
