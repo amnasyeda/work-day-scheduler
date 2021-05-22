@@ -1,3 +1,4 @@
+
 # Work Day Scheduler Starter Code
 
 
@@ -18,7 +19,7 @@ If link does not work, please click here: https://amnasyeda.github.io/work-day-s
 Interactive Video Screenshot on Standard Internet Browser:
 
 
-
+https://user-images.githubusercontent.com/81194686/119240109-b9c2e200-bb1b-11eb-8752-728a60aacb23.mov
 
 
 
@@ -30,6 +31,7 @@ Interactive Video Screenshot on Standard Internet Browser:
 Screenshot of Events being Saved to Local Storage: 
 
 
+<img width="1435" alt="saved to local stroage - work-day-scheduler" src="https://user-images.githubusercontent.com/81194686/119240123-d4955680-bb1b-11eb-9fc0-233444e2bf28.png">
 
 
 
