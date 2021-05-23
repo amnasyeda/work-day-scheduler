@@ -15,6 +15,7 @@ If link does not work, please click here: https://amnasyeda.github.io/work-day-s
 
 
 
+# Application:
 
 Interactive Video Screenshot on Standard Internet Browser:
 
@@ -25,8 +26,6 @@ https://user-images.githubusercontent.com/81194686/119240109-b9c2e200-bb1b-11eb-
 
 
 
-
-# Application:
 
 Screenshot of Events being Saved to Local Storage: 
 
