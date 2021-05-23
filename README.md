@@ -2,7 +2,7 @@
 # Work Day Scheduler 
 
 
-Description:
+# Description:
 
 A simple calendar application which allows users to save important tasks for every hour of the working day using third-party APIs. It allows those with a busy schedule to plan and add important tasks for each hour in order to be able to manage their day. 
 
@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/81194686/119240109-b9c2e200-bb1b-11eb-
 
 
 
-
+# Application:
 
 Screenshot of Events being Saved to Local Storage: 
 
@@ -39,7 +39,7 @@ Screenshot of Events being Saved to Local Storage:
 
 
 
-References:
+# References:
 - [w3schools](https://www.w3schools.com/jsref/dom_obj_date.asp)
 - [jqueryscript.net](https://www.jqueryscript.net/form/Save-Restore-Form-Values-jQuery-Savy.html)
 - [Font Awesome](https://fontawesome.com/)
